@@ -35,6 +35,8 @@ print(round(4.6))
 # 引入函式
 from math import *
 print(floor(5.1))
+
+
 print(ceil(5.8))
 
 # 開根號
