@@ -3,6 +3,7 @@
 from Animal import Animal
 
 class People(Animal):
+    # 初始化函式
     def __init__(self,name,sex,id) -> None:
         self.Name = name
         self.Sex =sex
